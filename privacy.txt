@@ -1,16 +1,5 @@
-尊敬的用户：
-　　本隐私政策是在向用户提供服务过程中适用的对用户隐私采取的管理和保护规则。其中，“隐私”是指用户在注册  通行证账号时提供给的个人资料。
-　　我们希望本隐私政策可以帮助您理解您提供个人资料的意义及如何管理和保护您的个人资料。
+隐私政策
 
-一、  将如何保护您的个人资料？
-　　  将努力采取商业上合理的方式以保护您的隐私安全，并使用商业上合理的安全技术措施来保护您的隐私不被未经授权的访问、使用或泄漏。但是仍然不能保证现有的安全技术措施能使用户的个人资料等信息不受任何形式的损失。
+我们不会收集及以任何形式储存来自你社交网路的任何资讯或销售给广告或其它营运机构。 个人信息  当你透过社交网路进行分享时，可能会要求输入帐号密码，但该资讯由iOS系统管理，App不会以任何形式储存帐号密码，也不会收集及以任何形式储存您在社交网路上的任何个人资讯。 隐私政策条款  使用本App即表示您同意此隐私政策的条款和条件。如果您不同意本政策，请不要使用该App。我们保留权利，在我们决定更改，修改，增加或删除本政策的部分，在任何时候。请定期浏览此网页查阅任何修改。如果您继续使用我们的App以后的任何更改这些条款的发布将意味著你已经接受了这些调整。联络信箱: 494583092@qq.com
 
-二、  将如何管理您的个人资料？
-　　  承诺在未获得用户的许可前，不会公开或向第三方披露用户隐私，包括注册资料中的信息。但如果出现下列情况将不在此承诺范围内：
-　　（1）用户明示或默示许可  披露上述个人资料；
-　　（2）依据有关法律法规或行政规章要求  应当披露用户的个人资料；
-　　（3）司法机关或行政机关基于合法程序要求  披露用户的个人资料；
-　　（4）为保护  的知识产权和其他财产权益，需要向司法机关披露用户的个人资料；
-　　（5）在紧急情况下为保护社会公共利益或其他用户的人身安全，需要披露用户的个人资料（仅限必要的披露范围）；
-　　（6）  合理怀疑用户涉嫌危害国家安全事情发生时，  有权主动将相关资料提供给国家安全机关或公安机关调查处理； 
-　　另外，在不对外透露用户隐私的前提下，  有权对整个用户数据库进行技术分析并对已进行分析、整理后的用户数据库进行使用。
+PRIVACY POLICYWe do not collect and save from your social account  in any form or sell any information to advertisers or other operators.Personal information When you share information through social accounts may be asked to enter the account and password, but that information is management by iOS system. App does not save account and password in any form or collect and save any personal information in any form on your social account.Privacy Policy Terms Use this App mean you agree to the terms and conditions of this Privacy Policy. If you do not agree to this policy, please do not use this App. We reserve the right, in our decision to change, modify, add or remove portions of this policy at any time. Please check this page periodically for any changes. Publish any changes to these terms if you continue to use our App future will mean that you have accepted these adjustments.E-Mail : 494583092@qq.com
